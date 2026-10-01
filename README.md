@@ -11,6 +11,11 @@ Practical Microsoft Dynamics 365 Finance & Operations resources for consultants,
 | Plan data migration with DMF | [Data migration playbook](packs/d365-dmf-data-migration/README.md) | Mapping example, dependency plan, reconciliation, and cutover controls |
 | Prepare for consultant interviews | [Interview practice](packs/d365-fo-interview-questions/README.md) | 15 scenario questions with answer guidance and scoring rubric |
 
+## Full template bundle on Gumroad
+The original repository also referenced a full documentation bundle on Gumroad.
+
+Original link: [Gumroad products](https://gumroad.com/products). This is a dashboard link; a public product URL is needed for visitors to view or purchase the bundle.
+
 ## Ready-to-copy documentation
 - [Functional requirement document](templates/functional-requirement.md)
 - [SIT integration test](templates/sit-integration-test.md)
