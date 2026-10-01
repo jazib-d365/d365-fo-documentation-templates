@@ -1,53 +1,34 @@
-# D365 F&O Documentation Templates
+# D365 F&O Functional Consultant Resource Hub
+Practical Microsoft Dynamics 365 Finance & Operations resources for consultants, business analysts, testers, and implementation teams.
 
-Free **Microsoft Dynamics 365 Finance & Operations (D365 F&O)** documentation templates for functional consultants, implementation teams, ERP analysts, and project managers.
+**Start with a real task:** trace an order, investigate warehouse work, plan UAT, or reconcile a migration.
 
-These resources are designed to help structure common D365 implementation activities across **Supply Chain Management, Warehouse Management, Finance & Operations, data migration, testing, and go-live preparation**.
+| Your task | Resource pack | What you can use today |
+|---|---|---|
+| Understand procurement, sales, and stock movements | [SCM process guide](packs/d365-fo-scm-guide/README.md) | Three process walkthroughs and a discovery checklist |
+| Diagnose warehouse problems | [WMS functional guide](packs/d365-wms-functional-guide/README.md) | Troubleshooting matrix, configuration checks, and incident template |
+| Build a business test cycle | [UAT test cases](packs/d365-fo-uat-test-cases/README.md) | 20 scenario starters, two detailed scripts, defect and sign-off templates |
+| Plan data migration with DMF | [Data migration playbook](packs/d365-dmf-data-migration/README.md) | Mapping example, dependency plan, reconciliation, and cutover controls |
+| Prepare for consultant interviews | [Interview practice](packs/d365-fo-interview-questions/README.md) | 15 scenario questions with answer guidance and scoring rubric |
 
-## Included reference templates
+## Ready-to-copy documentation
+- [Functional requirement document](templates/functional-requirement.md)
+- [SIT integration test](templates/sit-integration-test.md)
+- [Go-live readiness checklist](templates/go-live-readiness.md)
 
-- Functional Requirement Document (FRD)
-- SIT test-case template
-- UAT test-case template
-- DMF field-mapping template
-- Go-live readiness checklist
+## Quick start
+1. Open the pack matching your task.
+2. Read its assumptions before following a walkthrough.
+3. Copy a Markdown template into your project and replace example values.
+4. Record your environment version, feature settings, evidence, and approvals.
 
-## Who this repository is for
+You can browse everything on GitHub or download the repository using **Code → Download ZIP**. No scripts or installations are needed.
 
-This repository is useful for:
+## Scope and evidence
+Original learning material and editable project starters by Jazib Mehmood. Examples use fictional data. Adapt expected results to your configuration; these scenarios have not been executed in a D365 environment.
+This is an independent community resource. Microsoft documentation links are provided in the packs; business checklists and examples are original material, not official Microsoft guidance. Published 1 October 2026.
 
-- D365 F&O Functional Consultants
-- Dynamics 365 SCM Consultants
-- D365 Warehouse Management / WMS teams
-- ERP Business Analysts
-- Implementation Project Managers
-- QA and UAT teams
-- Data migration teams
-- Microsoft Dynamics 365 learners
+## Improve a resource
+Found a missing case or unclear expected result? [Open an issue](https://github.com/jazib-d365/d365-fo-documentation-templates/issues) with the pack name, business requirement, version, and a sanitized example. See [contribution guidance](CONTRIBUTING.md).
 
-## Common use cases
-
-Use these templates to support:
-
-- Requirements gathering and functional design
-- D365 F&O implementation documentation
-- System Integration Testing (SIT)
-- User Acceptance Testing (UAT)
-- Data Management Framework (DMF) migration planning
-- Master-data mapping and validation
-- Cutover and go-live preparation
-- ERP project handover documentation
-
-## D365 F&O focus areas
-
-The templates are intended for projects involving areas such as **procurement, sales, inventory, supply chain, warehouse management, retail and commerce, integrations, data migration, and functional testing**.
-
-## Keywords
-
-Microsoft Dynamics 365 Finance and Operations, D365 F&O, Dynamics 365 SCM, D365 Supply Chain Management, D365 WMS, Warehouse Management, ERP implementation, DMF, data migration, FRD, functional requirements, SIT testing, UAT testing, go-live checklist, Dynamics 365 templates.
-
-## About the author
-
-Created by **Jazib Mehmood**, a Microsoft Dynamics 365 F&O Functional Consultant working across supply chain, warehouse management, retail, integrations, data migration, and functional testing.
-
-For more D365 resources, visit the main profile: [github.com/jazib-d365](https://github.com/jazib-d365)
+Created by **Jazib Mehmood — Senior D365 F&O Functional Consultant**. [Explore my profile](https://github.com/jazib-d365).
