@@ -1,8 +1,20 @@
-# D365 F&O Functional Consultant Resource Hub
-Practical Microsoft Dynamics 365 Finance & Operations resources for consultants, business analysts, testers, and implementation teams.
+# D365 F&O Documentation Templates & Implementation Guides
+Practical Microsoft Dynamics 365 Finance & Operations resources for functional consultants, business analysts, and ERP implementation teams.
 
-**Start with a real task:** trace an order, investigate warehouse work, plan UAT, or reconcile a migration.
+**Bring structure to requirements, testing, data migration, and go-live preparation.** Browse the free reference templates below and learn about the full documentation bundle on Gumroad.
 
+**[Explore free templates](#ready-to-copy-documentation)** · **[Gumroad bundle information](#full-template-bundle-on-gumroad)** · **[Meet the author](https://github.com/jazib-d365)**
+
+## Find the template for your next project task
+| Project task | Start with | Purpose |
+|---|---|---|
+| Document a business requirement | [FRD starter](templates/functional-requirement.md) | Capture scope, rules, exceptions, and acceptance criteria |
+| Prepare business testing | [UAT scenarios and scripts](packs/d365-fo-uat-test-cases/README.md) | Define steps, expected results, evidence, and sign-off |
+| Validate an integration | [SIT test template](templates/sit-integration-test.md) | Check acknowledgements, retries, duplicate handling, and reconciliation |
+| Plan a data migration | [DMF migration playbook](packs/d365-dmf-data-migration/README.md) | Organize mapping, dependencies, loads, and validation |
+| Review launch readiness | [Go-live checklist](templates/go-live-readiness.md) | Assign owners and evidence to each decision gate |
+
+## Practical D365 guides
 | Your task | Resource pack | What you can use today |
 |---|---|---|
 | Understand procurement, sales, and stock movements | [SCM process guide](packs/d365-fo-scm-guide/README.md) | Three process walkthroughs and a discovery checklist |
@@ -12,9 +24,13 @@ Practical Microsoft Dynamics 365 Finance & Operations resources for consultants,
 | Prepare for consultant interviews | [Interview practice](packs/d365-fo-interview-questions/README.md) | 15 scenario questions with answer guidance and scoring rubric |
 
 ## Full template bundle on Gumroad
-The original repository also referenced a full documentation bundle on Gumroad.
+Looking for the full D365 F&O documentation bundle? This repository provides free reference material to help you assess the documentation approach before choosing the bundle.
 
-Original link: [Gumroad products](https://gumroad.com/products). This is a dashboard link; a public product URL is needed for visitors to view or purchase the bundle.
+Use the samples to explore requirements documentation, SIT/UAT testing, migration planning, and go-live readiness. Check the public Gumroad product listing for the paid bundle's exact contents, file formats, and price once its link is available.
+
+**Public purchase link: coming soon.**
+
+The original Gumroad reference is retained here: [Gumroad products dashboard](https://gumroad.com/products). This is an owner dashboard, not a customer purchase link.
 
 ## Ready-to-copy documentation
 - [Functional requirement document](templates/functional-requirement.md)
